@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">DesignDz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="step1_desc">Ознакомиться с условиями предоставления удаленного/дистанционного обслуживания кредитов ЗАО МФК "Элет-Капитал на сайте www.elet.kg</string>
+    <string name="instructionDesc">Для этого Вам достаточно пройти на нашем портале следуюшие 5 шагов</string>
+    <string name="step2_desc">Зарегестрироваться, пройти удаленную идентификацию и октрыть Личный кабинет в мобильном приложении или на сайте </string>
+    <string name="portalDesc">Друзья, здесь Вы можете получить по паспорту Онлайн кредит до 15000 сомов, на электронный кошелек (Баланс/Мегапей/О!Деньги/Элсом) или карту Элкарт любого банка КР, НЕ ПРИХОДЯ в офис Компании!</string>
+    <string name="reg">Зарегистрироваться</string>
+    <string name="aboutTitle">Ознакомиться с условиями</string>
+    <string name="openWebsiteButton">Открыть сайт: www.elet.kg</string>
+    <string name="step2">Шаг: 2</string>
+    <string name="step1">Шаг: 1</string>
+    <string name="portalTitle">О портале</string>
+    <string name="openWebsiteTextView">Открыть сайт Комании: www.elet.kg</string>
+    <string name="newCreditTextView">Кредит до 15000 сом выдается моменально и не требует посещения офиса МФК «Элет Капитал»</string>
+    <string name="spinnerTextViewSum">Сумма кредита</string>
+    <string name="spinnerTextViewSrok">Срок кредита</string>
+    <string name="editTextNumber">Номер</string>
+    <string name="spinnerWalletTextView">Канал выдачи</string>
+    <string name="spinnerProviderTextView">Провайдеры</string>
+    <string name="statusTextView">Статус: Идентифицирован</string>
+    <string name="numberTextView">Телефон +996 772 438 992</string>
+    <string name="creditStatusTextView">Вы можете подать заявку на кредит</string>
+    <string name="accountInfoTextView">Посмотреть личные данные в анкете</string>
+    <string name="dataTextView">Дата рождения: 15.08.1995</string>
+    <string name="nameTextView">Конкин Артем Анатольевич</string>
+    <string name="settingsAccTextView">Настройка профиля</string>
+    <string name="settingsAppTextView">Настройка приложения</string>
+    <string name="hintEdNumber">+996 777 438 992</string>
+    <string name="nextButton">ДАЛЕЕ</string>
+</resources>
