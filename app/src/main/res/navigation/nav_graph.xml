@@ -8,16 +8,16 @@
     <fragment
         android:id="@+id/homeFragment"
         android:name="com.example.designdz.Fragments.HomeFragment"
-        android:label="fragment_home"
+        android:label="Главная"
         tools:layout="@layout/fragment_home" />
     <fragment
         android:id="@+id/profileFragment"
         android:name="com.example.designdz.Fragments.ProfileFragment"
-        android:label="fragment_profile"
+        android:label="Настройка приложения"
         tools:layout="@layout/fragment_profile" />
     <fragment
         android:id="@+id/newFragment"
         android:name="com.example.designdz.Fragments.NewFragment"
-        android:label="fragment_new"
+        android:label="Новая заявка на кредит"
         tools:layout="@layout/fragment_new" />
 </navigation>

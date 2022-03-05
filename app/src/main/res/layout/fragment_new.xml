@@ -142,7 +142,7 @@
         android:layout_marginTop="35dp"
         android:layout_marginEnd="32dp"
         android:text="@string/hintEdNumber"
-        android:textSize="12sp"
+        android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
@@ -156,7 +156,7 @@
         android:paddingStart="32dp"
         android:paddingEnd="32dp"
         android:text="@string/newCreditTextView"
-        android:textSize="13dp"
+        android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/etNumber" />

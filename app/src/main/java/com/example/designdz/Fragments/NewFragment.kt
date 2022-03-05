@@ -1,10 +1,8 @@
 package com.example.designdz.Fragments
 
 import android.os.Bundle
+import android.view.*
 import androidx.fragment.app.Fragment
-import android.view.LayoutInflater
-import android.view.View
-import android.view.ViewGroup
 import android.widget.ArrayAdapter
 import com.example.designdz.R
 import com.example.designdz.databinding.FragmentNewBinding
@@ -32,6 +30,16 @@ val provider = arrayOf("Balance","Элсом","О!Деньги","Элкарт",)
         binding.spinnerProvider.adapter = adapterProvider
 
         return binding.root
+    }
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        setHasOptionsMenu(true)
+        super.onCreate(savedInstanceState)
+    }
+
+    override fun onCreateOptionsMenu(menu: Menu, inflater: MenuInflater) {
+        inflater.inflate(R.menu.menu1,menu)
+        super.onCreateOptionsMenu(menu, inflater)
     }
 
 
